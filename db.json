@@ -1,14 +1,55 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "users": [
+        {
+            "id": 1,
+            "store_name": "Store 1",
+            "store_email": "Store",
+            "store_contact": "Store",
+            "store_profile_image": "Store",
+            "store_token": "Store",
+            "id_store": 1
+            
+        },
+        {
+            "id": 2,
+            "store_name": "Store 2",
+            "store_email": "Store",
+            "store_contact": "Store",
+            "store_profile_image": "Store",
+            "store_token": "Store",
+            "id_store": 2
+            
+        },
+        {
+            "id": 3,
+            "store_name": "Store 3",
+            "store_email": "Store",
+            "store_contact": "Store",
+            "store_profile_image": "Store",
+            "store_token": "Store",
+            "id_store": 3
+            
+        },
+        {
+            "id": 4,
+            "store_name": "Store 4",
+            "store_email": "Store",
+            "store_contact": "Store",
+            "store_profile_image": "Store",
+            "store_token": "Store",
+            "id_store": 4
+            
+        },
+        {
+            "id": 5,
+            "store_name": "Store 5",
+            "store_email": "Store",
+            "store_contact": "Store",
+            "store_profile_image": "Store",
+            "store_token": "Store",
+            "id_store": 5
+            
+        }   
+
+    ]   
+}       
